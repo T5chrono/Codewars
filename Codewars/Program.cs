@@ -44,6 +44,8 @@ namespace Codewars
             //Console.WriteLine(CondiCipher.Decode("jx", "cryptogam", 10));
 
             Console.WriteLine(-52%26);
+
+            GenericTypeLoop<string> loop = new GenericTypeLoop<string>() { "a","b","c","d","e","f"};
         }
     }
 }
