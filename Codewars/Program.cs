@@ -43,9 +43,9 @@ namespace Codewars
             //Console.WriteLine(CondiCipher.Encode("i will never eat any grapes again", "superkey", 4));
             //Console.WriteLine(CondiCipher.Decode("jx", "cryptogam", 10));
 
-            Console.WriteLine(-52%26);
+            //GenericTypeLoop<string> loop = new GenericTypeLoop<string>() { "a","b","c","d","e","f"};
 
-            GenericTypeLoop<string> loop = new GenericTypeLoop<string>() { "a","b","c","d","e","f"};
+            Console.WriteLine(-52%26);
         }
     }
 }
